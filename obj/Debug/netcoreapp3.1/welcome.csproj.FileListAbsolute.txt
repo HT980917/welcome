@@ -1,0 +1,11 @@
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.exe
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.deps.json
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.runtimeconfig.json
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.runtimeconfig.dev.json
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.dll
+C:\Users\Kim\Desktop\welcome\bin\Debug\netcoreapp3.1\welcome.pdb
+C:\Users\Kim\Desktop\welcome\obj\Debug\netcoreapp3.1\welcome.csprojAssemblyReference.cache
+C:\Users\Kim\Desktop\welcome\obj\Debug\netcoreapp3.1\welcome.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\welcome\obj\Debug\netcoreapp3.1\welcome.AssemblyInfo.cs
+C:\Users\Kim\Desktop\welcome\obj\Debug\netcoreapp3.1\welcome.dll
+C:\Users\Kim\Desktop\welcome\obj\Debug\netcoreapp3.1\welcome.pdb
